@@ -1,0 +1,7 @@
+3
+Square
+497 392 25 Color [Lime]
+Line
+420 318 25
+Triangle
+523 294 25 Color [Lime]
